@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learning</string>
+
+    <string name="mainActivityText">Here is where you are:</string>
+    <string name="mainActivityButton">Call the Police</string>
+
+</resources>
